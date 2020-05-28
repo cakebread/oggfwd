@@ -14,6 +14,7 @@
  *				rafael2k <rafael(at)riseup(dot)net>,
  *				Moritz Grimm <gtgbr@gmx.net>
  * Copyright (C) 2015,          Philipp Schafft <lion@lion.leolix.org>
+ * Copyright (C) 2020,	        Rob Cakebread <rob@cakebread.io>
  */
 /* thanx to rhatto <rhatto (AT) riseup (DOT) net> and others at submidialogia :-P */
 
