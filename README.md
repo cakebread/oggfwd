@@ -23,5 +23,5 @@ OggFWD author:
 J^ <j@v2v.cc> 
 
 Improvements authors:
-Rob Cakebread <rob@cakebread.io> (added 'user' argument for source clients)
-rafael2k <rafael@riseup.net>
+- Rob Cakebread <rob@cakebread.io> (added 'user' argument for source clients)
+- rafael2k <rafael@riseup.net>
