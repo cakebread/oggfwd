@@ -1,0 +1,16 @@
+0.3
+  * Added 'user' argument for servers where it may be required (liquidsoap,
+  etc.). Use 'source' if you are using default Icecast server.
+0.2
+  * Makefile: rewrite; more packager-friendly
+  * man page
+  * use getopt() for advanced settings
+  * remove "dump file" feature, it is not implemented in libshout. explain
+    tee(1) usage instead
+  * signal handling to print "total bytes read" stats
+  * write all errors to stderr, regular output to stdout. Redirecting output
+    to /dev/null makes oggfwd silent, except when errors occur
+  * lint + -Wall clean
+0.1
+  * add advanced features by rafael2k <rafael@riseup.net>
+  * initial version
